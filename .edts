@@ -1,0 +1,5 @@
+:name "pubsub_node"
+:erlang-cookie "dupa"
+:lib-dirs '("deps" "tests")
+:app-include-dirs '("include")
+:project-include-dirs '("test/shared/include")
